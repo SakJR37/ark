@@ -1,0 +1,5 @@
+aws_region         = "us-east-1"
+environment        = "production"
+vpc_cidr           = "10.0.0.0/16"
+db_master_username = "postgres"
+github_repo        = "https://github.com/SakJR37/arkaback"
